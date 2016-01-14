@@ -36,13 +36,12 @@
 
 @isTest
 private class BudgetActual_TEST {
-     
+    //some change just to trigger new feature tests
     @isTest
     static void NoAccessBudgetActualOnlyC3() {
     //Test with no Contact to User Setup
-   
-
-    Account ouraccount = TestDataFactory_TEST.setupNewAccount (TRUE, 'Test Our Account');
+    Account ouraccount;
+    ouraccount = TestDataFactory_TEST.setupNewAccount (TRUE, 'Test Our Account');
     TestDataFactory_TEST.setupOrgSettings(FALSE, ouraccount.Id);
     TestDataFactory_TEST.setupBudgetSettings(FALSE, NULL, '3;4;');
 

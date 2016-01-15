@@ -516,11 +516,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Impact__c.Deliverable__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Impact__c.Impact_Type__c</field>
         <readable>false</readable>
     </fieldPermissions>

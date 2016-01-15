@@ -666,11 +666,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Opportunity_Code__c.Project__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Outreach__c.Account__c</field>
         <readable>false</readable>
     </fieldPermissions>

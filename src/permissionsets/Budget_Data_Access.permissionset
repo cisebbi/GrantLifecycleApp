@@ -906,11 +906,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Staff_Participation__c.Contact__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Staff_Participation__c.Coordinator_Assistant__c</field>
         <readable>false</readable>
     </fieldPermissions>

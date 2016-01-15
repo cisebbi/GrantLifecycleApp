@@ -326,11 +326,6 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Grant_Deliverable__c.Grant_Management__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
         <field>Grant_Management__c.Amount_of_Grant_Awarded__c</field>
         <readable>false</readable>
     </fieldPermissions>

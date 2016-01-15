@@ -80,7 +80,7 @@
         <apexClass>IssuesIntersectionController_TEST</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <classAccesses>
+    <classAccesses>Accounting_Category__c
         <apexClass>ManageStaffParticipation</apexClass>
         <enabled>false</enabled>
     </classAccesses>
@@ -117,11 +117,6 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>Accounting_Category__c.Display_Order__c</field>
-        <readable>false</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Accounting_Code__c.Accounting_Category__c</field>
         <readable>false</readable>
     </fieldPermissions>
     <fieldPermissions>

@@ -3,7 +3,7 @@
     <description>Create a new Report Type</description>
     <fieldOverrides>
         <field>Date_Due_to_Reviewer__c</field>
-        <formula>Grant_Reporting_Requirement__c.Due_Date__c - 30</formula>
+        <formula>anamespace__Grant_Reporting_Requirement__c.anamespace__Due_Date__c - 30</formula>
     </fieldOverrides>
     <quickActionLayout>
         <layoutSectionStyle>TwoColumnsLeftToRight</layoutSectionStyle>
